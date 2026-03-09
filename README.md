@@ -86,9 +86,9 @@ Senior iOS Software Engineer with a solid engineering foundation starting from 2
 * Covered system/3rd-party iOS frameworks, dependency managers, and personal framework distribution.
 
 ## SKILLS
-* **Languages:** Swift, Objective-C, C++, JavaScript/TypeScript, Bash
+* **Languages:** Swift, Objective-C, C++, Python, JavaScript/TypeScript
 * **UI Frameworks:** SwiftUI, UIKit, Metal
-* **Architecture & Design:** MVVM, View Objects (VO), Domain-Driven Design (DDD), Clean Architecture, Protocol-Oriented Programming (POP), SOLID, Modular Architecture
+* **Architecture & Design:** MVVM, View Only (VO), Domain-Driven Design (DDD), Clean Architecture, Protocol-Oriented Programming (POP), SOLID, Modular Architecture
 * **Frameworks & Tech:** Modern Swift Concurrency, RxSwift, Combine, CryptoKit, SwiftData, CoreData, SwiftGen
 * **Tools & Processes:** TDD, CI/CD (Azure), Firebase, AppCenter, JSON-driven UI, Agile/Scrum
 
